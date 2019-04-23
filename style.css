@@ -1,0 +1,402 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+/*     font-family: 'Anton', sans-serif;         */
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+/* font-family: 'Pacifico', cursive;    */ 
+/* signature type */
+@import url('https://fonts.googleapis.com/css?family=Abel');
+ /*  font-family: 'Abel', sans-serif;   */ 
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+/* font-family: 'Abril Fatface', cursive;  */
+@import url('https://fonts.googleapis.com/css?family=Acme');
+/*   font-family: 'Acme', sans-serif;  */
+
+
+
+*{margin:0; padding:0;}
+
+.navbar{
+	width:100%;
+	height: 100px;
+	background-color: #ABB2B9;
+	float:left;
+	position: fixed;
+}
+.nav{
+	float:left;
+}
+.nav h1{
+	font-size: 35px;
+	font-family: 'Anton', sans-serif;
+	margin-top: 30px;
+	margin-left: 30px;
+	color:#fff;
+}
+.addr{
+	float:right;
+}
+.addr p{
+	float:left;
+	font-family: 'Acme', sans-serif;
+	font-size: 17px;
+	margin-top: 37px;
+	margin-right: 40px;
+	color:#FFF;
+}
+
+.tophead{
+	width:100%;
+	height: 500px;
+	float:left;
+	background: #D5D8DC;
+	margin-top: 100px;
+}
+.wraptext{
+	width: 80%;
+	height: auto;
+	margin: 0 auto;
+}
+.tophead img{
+	width:45%;
+	height: 500px;
+	float:right;
+}
+.wraptext h1{
+	padding-top: 100px;
+	font-family: 'Anton', sans-serif;
+	font-size: 45px;
+}
+.wraptext p{
+	font-family: 'Abel', sans-serif;
+	font-size: 25px;
+	float:left;
+}
+
+/* Asattar sir */
+#wrapper{
+	width:100%;
+	height: 500px;
+	float:left;
+	background:#C70039;
+}
+.conthalf{
+	width:80%;
+	height: 500px;
+	margin:0 auto;
+}
+.conthalf h1{
+	font-size: 44px;
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+	margin-top: 50px;
+	color:#fff;
+	background-color: #76D7C4;
+}
+.asirpic img{
+	width:290px;
+	height: 320px;
+	border-radius: 1000px;
+	margin-top: 60px;
+	margin-bottom: 100px;
+	float:left;
+}
+.asirtext{
+	float:left;
+	margin-top: 25%;
+}
+.asirtext p{
+	font-size: 35px;
+	font-family: 'Abel', sans-serif; 
+	padding-left: 10px;
+	color:#fff;
+}
+.as p{
+	font-size: 20px;
+}
+/* A Sattar sir content-ends from here */
+
+/* rowson sir content start from here */
+
+.wrapper2{
+	width:100%;
+	height: 500px;
+	background:#117A65;
+	float:left;
+}
+.rsircont{
+	width:80%;
+	height: 500px;
+	margin:0 auto;	
+}
+.rsircont h1{
+	font-size: 44px;
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+	margin-top: 50px;
+	color:#fff;
+	background-color: #76D7C4;
+}
+.rsirpic{
+	float:right;
+}
+.rsirpic img{
+	width:290px;
+	height: 300px;
+	border-radius: 1000px;
+}
+.rsirtext{
+	float:right;
+	margin-top: 18%;
+}
+.rsirtext p{
+	font-size: 35px;
+	font-family: 'Abel', sans-serif; 
+	padding-left: 25px;
+	color:#fff;
+}
+/* hasan mahmu sir */
+.wrapper3{
+	width:100%;
+	height: 500px;
+	background:#154360;
+	float:left;
+}
+.hsircont{
+	width:80%;
+	height: 500px;
+	margin:0 auto;	
+}
+.hsircont h1{
+	font-size: 44px;
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+	margin-top: 50px;
+	color:#fff;
+	background-color: #76D7C4;
+}
+.hsirpic{
+	float:right;
+}
+.hsirpic img{
+	width:290px;
+	height: 300px;
+	border-radius: 1000px;
+}
+.hsirtext{
+	float:right;
+	margin-top: 18%;
+}
+.hsirtext p{
+	font-size: 35px;
+	font-family: 'Abel', sans-serif; 
+	padding-left: 25px;
+	color:#fff;
+}
+/* hacker snowden */
+
+.wrapper4{
+	width:100%;
+	height: 500px;
+	background:#090504;
+	float:left;
+}
+.ssircont{
+	width:80%;
+	height: 500px;
+	margin:0 auto;	
+}
+.ssircont h1{
+	font-size: 44px;
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+	margin-top: 50px;
+	color:#fff;
+	background-color: #76D7C4;
+}
+.ssirpic{
+	float:right;
+}
+.ssirpic img{
+	width:300px;
+	height: 300px;
+	border-radius: 1000px;
+}
+.ssirtext{
+	float:right;
+	margin-top: 18%;
+}
+.ssirtext p{
+	font-size: 35px;
+	font-family: 'Abel', sans-serif; 
+	padding-left: 25px;
+	color:#fff;
+}
+
+/* hacker hamzah */
+.wrapper5{
+	width:100%;
+	height: 500px;
+	background:#34495E;
+	float:left;
+}
+.zsircont{
+	width:80%;
+	height: 500px;
+	margin:0 auto;	
+}
+.zsircont h1{
+	font-size: 44px;
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+	margin-top: 50px;
+	color:#fff;
+	background-color: #76D7C4;
+}
+.zsirpic{
+	float:right;
+}
+.zsirpic img{
+	width:300px;
+	height: 300px;
+	border-radius: 1000px;
+}
+.zsirtext{
+	float:right;
+	margin-top: 18%;
+}
+.zsirtext p{
+	font-size: 35px;
+	font-family: 'Abel', sans-serif; 
+	padding-left: 25px;
+	color:#fff;
+}
+
+
+
+
+/* rowson sir */
+@media screen and (max-width: 600px){
+	.rsircont h1{
+		font-size: 30px;
+	}
+	.rsirpic img{
+		width:200px;
+		height: 220px;
+		margin-right: 45px;
+	}
+	.rsirtext p{
+		font-size: 25px;
+	}
+}
+
+/* hasan mahmud sir */
+@media screen and (max-width: 600px){
+	.hsircont h1{
+		font-size: 30px;
+	}
+	.hsirpic img{
+		width:200px;
+		height: 220px;
+		margin-right: 45px;
+	}
+	.hsirtext p{
+		font-size: 25px;
+		padding-right: 45px;
+	}
+}
+
+/* hacker */
+
+@media screen and (max-width: 600px){
+	.ssircont h1{
+		font-size: 30px;
+	}
+	.ssirpic img{
+		width:200px;
+		height: 220px;
+		margin-right: 45px;
+	}
+	.ssirtext p{
+		font-size: 25px;
+		padding-right: 45px;
+	}
+}
+
+/*  hamzah  */
+
+@media screen and (max-width: 600px){
+	.zsircont h1{
+		font-size: 30px;
+	}
+	.zsirpic img{
+		width:200px;
+		height: 220px;
+		margin-right: 45px;
+	}
+	.zsirtext p{
+		font-size: 25px;
+		padding-right: 120px;
+	}
+}
+
+/*
+@media screen and (max-width:600){
+
+}
+
+*/
+
+
+
+
+
+
+
+/* navbar responsive */
+
+@media screen and (max-width: 600px){
+	.navbar{
+		width:100%;
+	}
+	.nav h1{
+		font-size: 15px;
+		margin-top: 34px;
+	}
+	.addr p{
+		margin-right: 10px;
+		font-size: 12px;
+	}
+}
+
+/* profile responsive */
+@media screen and (max-width: 600px){
+	.tophead{
+		width:100%;
+		height: 500px;
+	}
+	.wraptext{
+		width:45%;
+		margin-left:20px;
+	}
+}
+
+/* Asattar sir responsive */
+@media screen and (max-width: 600px){
+	.conthalf h1{
+		font-size: 30px;
+	}
+	.asirpic img{
+		width:200px;
+		height: 220px;
+		margin-left: 45px;
+	}
+	.asirtext{
+		margin-top:-80px;
+		margin-left: 20px;
+	}
+	.asirtext p{
+		font-size: 25px;
+		margin-left: 20px;
+	}
+}
+
+
